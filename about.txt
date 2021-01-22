@@ -1,0 +1,11 @@
+Author: Thien Tran
+
+Description: GUI Sudoku Game
+5 buttons:
+NEW: Randomly pick a new sudoku
+CHECK: Check whether the player's solution is correct and Display relevant message
+REMOVE: Remove incorrect filled numbers
+CLEAR: Clear all - Restore the initial status of the current Sudoku
+SOLVE: Display solution
+
+Dataset: http://www.mathsphere.co.uk/resources/MathSphereFreeResourcesSudoku.html
